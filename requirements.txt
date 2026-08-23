@@ -1,4 +1,4 @@
 requests==2.34.2
 psycopg2-binary==2.9.12
-python-dotenv==1.2.2
+python-dotenv==1.2.3
 pyodbc==5.3.0
